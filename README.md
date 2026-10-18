@@ -22,4 +22,5 @@ Compare forecast error against historical averages
 Time series forecasting\
 Data preprocessing\
 Statistical modeling\
+Feature engineering\
 Market analytics
